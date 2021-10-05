@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <div >
-            <p>THis is Footer</p>
+            <p className="text-center">All rights reserved © <a href="https://p-shafin.netlify.app" className="text-decoration-none text-black">Shoyayeb</a> </p>
         </div>
     );
 };

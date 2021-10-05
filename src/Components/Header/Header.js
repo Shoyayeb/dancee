@@ -7,7 +7,8 @@ import './Header.css';
 const Header = () => {
     return (
         <div>
-            <Navbar bg="light" expand="lg">
+            {/* navbar */}
+            <Navbar className="navBg" expand="lg">
                 <Container >
                     <Link to="/home" className="navbar-brand logoFont d-flex align-items-center gap-3">
                         <img
@@ -20,7 +21,7 @@ const Header = () => {
                         Dancee</Link>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav mx-auto">
-                        <Nav className="mx-auto navLink">
+                        <Nav className="mx-auto navLink gap-lg-5">
                             <Link className="nav-link" to="/home">Home</Link>
                             <Link className="nav-link" to="/About">About</Link>
                             <Link className="nav-link" to="/services">Services</Link>

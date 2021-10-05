@@ -10,6 +10,47 @@ import Home from './Components/Home/Home';
 import NotFound from './Components/NotFound/NotFound';
 import Services from './Components/Services/Services';
 function App() {
+  const data = [
+    {
+      title: 'K-POP',
+      description: 'Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.',
+      img: '/kpop.jpg'
+    },
+    {
+      title: 'HIP HOP DANCE',
+      description: 'All TDS dancers are invited to audition for our annual “I Love to Dance” performance. Dancers of all ages choose their own song and costume to perform their dance for the community. Auditions are in January, with the performance in early spring.'
+    },
+    {
+      title: 'BREAK DANCE',
+      description: 'Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.',
+      img: '/dance.jpg'
+    },
+    {
+      title: 'CLASSICAL DANCE',
+      description: 'Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.',
+      img: '/dance.jpg'
+    },
+    {
+      title: 'BALET DANCE',
+      description: 'Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.',
+      img: '/dance.jpg'
+    },
+    {
+      title: 'BELLY DANCE',
+      description: 'Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.',
+      img: '/dance.jpg'
+    },
+    {
+      title: 'MODERN DANCE',
+      description: 'Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.',
+      img: '/dance.jpg'
+    },
+    {
+      title: 'TAP DANCE',
+      description: 'Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.',
+      img: '/dance.jpg'
+    }
+  ]
   return (
     <div className="App">
 
@@ -36,7 +77,6 @@ function App() {
           </Route>
         </Switch>
       </BrowserRouter>
-
       <Footer></Footer>
     </div>
   );

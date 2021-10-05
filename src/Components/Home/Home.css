@@ -5,6 +5,17 @@
     font-weight: 600;
     text-transform: uppercase;
     line-height: 1.1em;
-    text-align: center;
-    
+}
+.main {
+    height: 100vh;
+    background: url(./dan.jpg) no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.card-horizontal {
+    display: flex !important;
+    flex-direction: row;
+}
+.cardBody {
+    width: 500px !important;
 }
