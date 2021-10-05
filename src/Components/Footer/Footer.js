@@ -13,16 +13,16 @@ const Footer = () => {
             {/* <p className="text-center">All rights reserved © <a href="https://p-shafin.netlify.app" className="text-decoration-none text-black">Shoyayeb</a> </p> */}
             <footer className="text-center text-lg-start bg-warning">
                 <div className="container d-flex justify-content-center py-5">
-                    <button type="button" className="btn btn-primary btn-lg btn-floating mx-2 bg-black bg-opacity-50" >
+                    <button type="button" className="btn btn-lg btn-floating mx-2 bg-transparrent bg-opacity-50" >
                         {facebook}
                     </button>
-                    <button type="button" className="btn btn-primary btn-lg btn-floating mx-2 bg-black bg-opacity-50">
+                    <button type="button" className="btn btn-lg btn-floating mx-2 bg-transparrent bg-opacity-50">
                         {youtube}
                     </button>
-                    <button type="button" className="btn btn-primary btn-lg btn-floating mx-2 bg-black bg-opacity-50" >
+                    <button type="button" className="btn  btn-lg btn-floating mx-2 bg-transparrent bg-opacity-50" >
                         {instagram}
                     </button>
-                    <button type="button" className="btn btn-primary btn-lg btn-floating mx-2 bg-black bg-opacity-50">
+                    <button type="button" className=" btn btn-lg btn-floating mx-2 bg-transparrent bg-opacity-50">
                         {twitter}
                     </button>
                 </div>
