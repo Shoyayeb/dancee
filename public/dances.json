@@ -1,0 +1,58 @@
+[
+    {
+        "title": "K-POP",
+        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "img": "/kpop.jpg",
+        "fee": 3900,
+        "id": 1
+    },
+    {
+        "title": "HIP HOP DANCE",
+        "description": "All TDS dancers are invited to audition for our annual “I Love to Dance” performance. Dancers of all ages choose their own song and costume to perform their dance for the community. Auditions are in January, with the performance in early spring.",
+        "img": "/hiphop.jpg",
+        "fee": 1300,
+        "id": 2
+    },
+    {
+        "title": "BREAK DANCE",
+        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "img": "/break.jpg",
+        "fee": 4400,
+        "id": 3
+    },
+    {
+        "title": "CLASSICAL DANCE",
+        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "img": "/classical.jpg",
+        "fee": 1500,
+        "id": 4
+    },
+    {
+        "title": "BALET DANCE",
+        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "img": "/balet.jpg",
+        "fee": 1000,
+        "id": 5
+    },
+    {
+        "title": "BELLY DANCE",
+        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "img": "/belly.jpg",
+        "fee": 6700,
+        "id": 6
+    },
+    {
+        "title": "MODERN DANCE",
+        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "img": "/modern.jpg",
+        "fee": 9800,
+        "id": 7
+    },
+    {
+        "title": "TAP DANCE",
+        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "img": "/tap.jpg",
+        "fee": 5500,
+        "id": 8
+    }
+]
