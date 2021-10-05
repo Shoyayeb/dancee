@@ -19,7 +19,7 @@ const Services = (props) => {
                             <Card.Body>
                                 <Card.Title>{dance.title}</Card.Title>
                                 <Card.Text>{dance.description}</Card.Text>
-
+                                <Card.Text className="fw-bold">Total Fee:  {dance.fee}$</Card.Text>
                             </Card.Body>
                             <Card.Footer>
                                 <Button className="btn-lg container-fluid">Enroll Now</Button>

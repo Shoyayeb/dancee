@@ -1,56 +1,56 @@
 [
     {
         "title": "K-POP",
-        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "description": "K-pop , short for Korean popular music, is a genre of music originating in South Korea as part of South Korean culture. It is influenced by styles and genres from around the world, such as pop, experimental, rock, jazz, gospel, hip hop, R&B, reggae, electronic dance",
         "img": "/kpop.jpg",
         "fee": 3900,
         "id": 1
     },
     {
         "title": "HIP HOP DANCE",
-        "description": "All TDS dancers are invited to audition for our annual “I Love to Dance” performance. Dancers of all ages choose their own song and costume to perform their dance for the community. Auditions are in January, with the performance in early spring.",
+        "description": "Hip-hop dance is a fusion dance genre that incorporates elements of popping, locking, breaking, jazz, ballet, tap dancing and other styles and is typically performed to hip-hop, R&B, funk, electronic or pop music.",
         "img": "/hiphop.jpg",
         "fee": 1300,
         "id": 2
     },
     {
         "title": "BREAK DANCE",
-        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "description": "Breakdancing, also called breaking or b-boying/b-girling, is an athletic style of street dance from the United States. While diverse in the amount of variation available in the dance, breakdancing mainly consists of four kinds of movement: toprock, downrock, power moves and freezes. ",
         "img": "/break.jpg",
         "fee": 4400,
         "id": 3
     },
     {
         "title": "CLASSICAL DANCE",
-        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "description": "classical dance is an umbrella term for various performance arts rooted in musical theatre styles, whose theory and practice can be traced to the Sanskrit text, Natyashastra. The number of classical dances range from eight to more",
         "img": "/classical.jpg",
         "fee": 1500,
         "id": 4
     },
     {
         "title": "BALET DANCE",
-        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "description": "the most shocking work; however, there are still glimpses of beauty to be had, and much incredible dancing in an age where dance technique has progressed further in expertise, strength and flexibility than ever before in history.",
         "img": "/balet.jpg",
         "fee": 1000,
         "id": 5
     },
     {
         "title": "BELLY DANCE",
-        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "description": "Belly dance, more correctly referred to as oriental dance, is an Arabic expressive dance that has its origins in Egypt since ancient times. It features movements of the hips and torso.",
         "img": "/belly.jpg",
         "fee": 6700,
         "id": 6
     },
     {
         "title": "MODERN DANCE",
-        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "description": "Modern dance is a broad genre of western concert or theatrical dance which included dance styles such as ballet, folk, ethnic, religious, and social dancing; and primarily arose out of Europe and the United States in the late 19th and early 20th centuries. ",
         "img": "/modern.jpg",
         "fee": 9800,
         "id": 7
     },
     {
         "title": "TAP DANCE",
-        "description": "Here We make sure everyone gets a good friendly and same minded team for better teamwork and understanding.",
+        "description": "Tap dance is a type of dance characterised by using the sounds of metal taps affixed to the heel and toe of shoes striking the floor as a form of percussion, coupled with both characteristic and interpretative body movements.",
         "img": "/tap.jpg",
         "fee": 5500,
         "id": 8
