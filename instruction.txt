@@ -1,0 +1,17 @@
+bootstrap
+Homepage-
+	navbar - navigation with 4 route-
+		 Home, About, Services,(as-wish)
+	Header - themeforest
+	footer - some useful link
+
+404 page -
+	navbar + footer + 404 error
+
+Services page - 
+	navbar + footer + detailed 7-8 services
+
+
+{edit readme file}
+{Comment}
+{header and footer will stay on webpage all time}
