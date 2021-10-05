@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import { Button, Card, Spinner } from 'react-bootstrap';
-import './Home.css';
+import { Spinner } from 'react-bootstrap';
 import Dances from './../Dances/Dances';
+import './Home.css';
 const Home = () => {
     const [dances, setDance] = useState([]);
     useEffect(() => {
