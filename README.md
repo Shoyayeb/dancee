@@ -6,7 +6,7 @@
 * huge chances to get scholership on dance
 * get certified
 
-[Live Link](https://github.com/facebook/create-react-app).
+[Live Link](https://shafin-dancee.netlify.app/).
 
 
 
