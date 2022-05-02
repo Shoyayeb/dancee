@@ -29,7 +29,7 @@ const Footer = () => {
 
                 <div className="text-center text-white p-3 bg-black bg-opacity-10">
                     © 2021 Copyright:
-                    <a className="text-white text-decoration-none" href="https://p-shafin.netlify.app">Shoyayeb</a>
+                    <a className="text-white text-decoration-none" href="https://shafin-portfolio.web.app">Shoyayeb</a>
                 </div>
 
             </footer>
